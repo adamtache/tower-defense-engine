@@ -19,15 +19,15 @@ Members:
 ####Roles:
 
 Authoring Environment:
-* Brian (Briguy52) - Team lead for first half, opening screen, general game settings and tabs, various screens, unit integration and front-end path and unit spawn integration
+* Brian (Briguy52) - Sub-team lead for first half, opening screen, general game settings and tabs, various screens, unit integration and front-end path and unit spawn integration, front-end waypoint-based pathing creation
 
 * Cody (cl305) - Store, waves, level front-end
 
 * Virginia (vcheng19) - Affector and Element Tabs
 
-* Andy (ownzandy) - Team lead for second half, Back-end integration of affectors, units, towers, and projectiles
+* Andy (ownzandy) - Sub-team lead for second half, Back-end integration of affectors, units, towers, and projectiles
 
-* Adam (adamtache) - Designed back-end path graph system for search problems, map handling, helped integrate into path tab
+* Adam (adamtache) - Designed back-end waypoint-based pathing system for search problems, map handling, helped integrate into path tab
 
 * Paul (paulcruz74) - Back-end stores, waves, levels
 
@@ -39,23 +39,23 @@ Game Engine:
 
 * Andy (ownzandy) - Towers and projectiles, general affectors, special homing and cursor shooting affectors, non-AI path following, general units, range, levels, scores, and waves integration
 
-* Adam (adamtache) - AI extension for autonomous path-following units guided by tower obstacles, paths and branches, general unit movement, tower placement validation with search on visibility graphs, simulated obstacle placement and path following, functions, general affectors, encapsulation handling and detection
+* Adam (adamtache) - Sub-team lead, AI extension for autonomous path-following units guided by tower obstacles, paths and branches, general unit movement, tower placement validation with search on visibility graphs, simulated obstacle placement and path following, functions, general affectors, encapsulation handling and detection
 
 * Paul (paulcruz74) - Back-end store and upgrades, collision handling and detection
 
 Game Player:
 
-* David (dy46) - General configurations, tower displayer, HUD, all front-end
+* David (dy46) - Co-subteam lead, General configurations, tower displayer, HUD, all front-end
 
-* Andy (ownzandy) - Playing of the game
+* Andy (ownzandy) - Co-subteam lead, Playing of the game
 
 Game Data:
 
-* Austin (austinhua) - Lead Game data
+* Austin (austinhua) - Sub-team lead
 
 Utility:
 
-* Paul (paulcruz74) - Box Cloud storage and Twilio
+* Paul (paulcruz74) - Subteam lead, Box Cloud storage and Twilio
 
 * Andy (ownzandy) - Setting up API/JARs
 
